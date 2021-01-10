@@ -17,3 +17,8 @@ Name: Align Assign Equal
 Description: Aligns assignment '=' operators within a highlighted area.
 Binding: alignAssignEqual
 Interactive: false
+
+Name: Align Symbol Tilde
+Description: Aligns '~' symbol within a highlighted area.
+Binding: alignSymbolTilde
+Interactive: false
